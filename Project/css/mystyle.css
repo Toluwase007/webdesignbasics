@@ -1,0 +1,51 @@
+header{
+background-color:#00000f;
+text-align: center;
+font-size:150%;
+display: block;
+padding: 1%;
+}
+
+h1{
+font-variant: small-caps;
+color: #ffffff;
+
+}
+
+h2{
+background-color:#ee00ff;
+font-variant: small-caps;
+}
+
+body{
+background-color:#b47fb8;
+margin:4%;
+font-size:120%;
+}
+
+section{
+dispay: inline-block;
+width: 32.1%;
+height: 400px;
+box-sizing:border-box;
+float:left;
+margin-right:1%;
+color: white;
+font-family: cursive;
+}
+
+footer{
+clear: both; /*i.e don't lt anything float on either side of me*/
+background-color:#f2d0ef;
+}
+
+/*ul{
+color: white;
+font-family: cursive;
+}*/
+img{
+width:100px;
+}
+progress{
+color: pink;
+}
